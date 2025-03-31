@@ -60,4 +60,4 @@
       ports:
       - 8501:8501
       env:
-        MODEL_ENDPOINT: http://10.88.0.1:8001
+        MODEL_ENDPOINT: http://llama-model-service:8001
